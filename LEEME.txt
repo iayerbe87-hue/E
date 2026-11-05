@@ -1,0 +1,5 @@
+MI ENTRENAMIENTO - PWA
+
+Rutina de lunes, miércoles, jueves y viernes; registro de kg y repeticiones por serie; marcar series completadas; temporizador; historial local; exportación JSON y caché offline.
+
+Para instalarla en Android debe servirse desde HTTPS. Abre la URL en Chrome y usa el menú ⋮ > Instalar aplicación o Añadir a pantalla de inicio. Los registros se guardan en el navegador/dispositivo y no se sincronizan en la nube. Exporta una copia periódicamente.
